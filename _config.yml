@@ -27,7 +27,7 @@ author:
   bio              : "Graduate Student at MIT"
   location         : "Cambridge"
   employer         : "Massachusetts Institute of Technology"
-  uri              : "https://www.mit.edu"
+  uri              : #"https://www.mit.edu"
   email            : "nidhishs@mit.edu" 
 
   # Academic websites
