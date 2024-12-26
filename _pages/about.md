@@ -22,9 +22,11 @@ Previously, my research has spanned diverse topics such as:
 
 With a strong technical foundation, I enjoy working at the intersection of **machine learning** and **scientific domains**, exploring how data and algorithms can transform our understanding of complex systems. My efforts have resulted in peer-reviewed publications and international conference presentations (NeurIPS 2024).
 
-Beyond academics, I’m deeply passionate about teaching and giving back to the community. Beside research, I tutor through **MIT’s ESOL program**, or leading sports initiatives at IISc, I strive to create positive impacts wherever I go.
+Beyond academics, I’m deeply passionate about teaching and giving back to the community. Beside research, I am a tutor at **MIT’s ESOL program**, teaching English to non-native staff (includes many janitors) at MIT.
 
-When I’m not working on my projects, you can find me experimenting with coding challenges, exploring new AI frameworks, or enjoying a game of badminton.
+I am into long-distance running, having won medals in my university.
 
-Feel free to explore my **projects**, **publications**, and **blog** for more insights into my journey. Don’t hesitate to reach out if you’d like to collaborate or discuss shared interests!
+When I’m not working on my projects, you can find me experimenting with coding challenges, exploring new AI frameworks, or enjoying a game of chess. I aim to create a positive impact wherever I go, and am a big believer in working with people.
+
+Feel free to explore my **research**, and **blog** for more insights into my journey. Please feel free to reach out (links on the left) if you’d like to collaborate and/or discuss shared interests!
 
