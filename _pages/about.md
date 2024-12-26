@@ -12,4 +12,22 @@ redirect_from:
 
 **About me**
 
+### About Me
+
+Welcome! I'm **Nidhish Sagar**, a dual Master's student at **MIT**, specializing in **Electrical Engineering & Computer Science (EECS)** and **Nuclear Science & Engineering (NSE)**. My academic journey and research focus on leveraging **Artificial Intelligence (AI) for Science**, with particular interests in **physics-informed machine learning**, **hybrid modeling**, and **multimodal techniques**.
+
+Currently, I work with **Prof. Richard Braatz** on hybrid models that integrate mechanistic and data-driven approaches to optimize industrial chemical processes. I've also developed a keen interest in applying AI to material science challenges, from predicting high-temperature superconductors to designing novel catalysts.
+
+Previously, my research has spanned diverse topics such as:
+- Machine-learned interatomic potentials for disordered materials.
+- Functionalization of 2D materials for hydrogen evolution reactions.
+- Exploring mechanical properties of superalloys in additive manufacturing.
+
+With a strong technical foundation, I enjoy working at the intersection of **machine learning** and **scientific domains**, exploring how data and algorithms can transform our understanding of complex systems. My efforts have resulted in multiple peer-reviewed publications and international conference presentations.
+
+Beyond academics, I’m deeply passionate about teaching and giving back to the community. Whether serving as a **Teaching Assistant**, tutoring through **MIT’s ESOL program**, or leading sports initiatives at IISc, I strive to create positive impacts wherever I go.
+
+When I’m not working on my projects, you can find me experimenting with coding challenges, exploring new AI frameworks, or enjoying a game of badminton.
+
+Feel free to explore my **projects**, **publications**, and **blog** for more insights into my journey. Don’t hesitate to reach out if you’d like to collaborate or discuss shared interests!
 
