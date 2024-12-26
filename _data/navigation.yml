@@ -14,18 +14,10 @@ main:
 
 - title: "Vision for PhD"
     url: /vision/
-    
-  #- title: "Teaching"
-  #  url: /teaching/    
-    
- # - title: "Portfolio"
- #   url: /portfolio/
         
-  - title: "Blog"
+- title: "Blog"
     url: /blog/
     
-  - title: "CV"
+- title: "CV"
     url: /cv/
     
-  #- title: "Guide"
-  #  url: /markdown/
