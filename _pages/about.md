@@ -16,16 +16,15 @@ redirect_from:
 
 Welcome! I'm **Nidhish Sagar**, a dual Master's student at **MIT**, specializing in **Electrical Engineering & Computer Science (EECS)** and **Nuclear Science & Engineering (NSE)**. My academic journey and research focus on leveraging **Artificial Intelligence (AI) for Science**, with particular interests in **physics-informed machine learning**, **hybrid modeling**, and **multimodal techniques**.
 
-Currently, I work on hybrid models that integrate mechanistic and data-driven approaches to optimize industrial chemical processes. I've also published research on how machine learning can solve challenges in materials science. Based on the courses I have taken at MIT, I've developed a keen interest in applying AI to 
+Currently, I work on hybrid models that integrate mechanistic and data-driven approaches to optimize industrial chemical processes. I've also published research on how machine learning can solve challenges in materials science. Based on the courses I have taken at MIT, I've developed a keen interest in applying AI to discover insights into scientific phenomena whose data have complex mathematical relationships. 
 
 Previously, my research has spanned diverse topics such as:
-- Machine-learned interatomic potentials for disordered materials.
+- Machine-learned interatomic potentials for disordered rocksalts.
 - Functionalization of 2D materials for hydrogen evolution reactions.
-- Exploring mechanical properties of superalloys in additive manufacturing.
 
-With a strong technical foundation, I enjoy working at the intersection of **machine learning** and **scientific domains**, exploring how data and algorithms can transform our understanding of complex systems. My efforts have resulted in multiple peer-reviewed publications and international conference presentations.
+With a strong technical foundation, I enjoy working at the intersection of **machine learning** and **scientific domains**, exploring how data and algorithms can transform our understanding of complex systems. My efforts have resulted in peer-reviewed publications and international conference presentations (NeurIPS 2024).
 
-Beyond academics, I’m deeply passionate about teaching and giving back to the community. Whether serving as a **Teaching Assistant**, tutoring through **MIT’s ESOL program**, or leading sports initiatives at IISc, I strive to create positive impacts wherever I go.
+Beyond academics, I’m deeply passionate about teaching and giving back to the community. Beside research, I tutor through **MIT’s ESOL program**, or leading sports initiatives at IISc, I strive to create positive impacts wherever I go.
 
 When I’m not working on my projects, you can find me experimenting with coding challenges, exploring new AI frameworks, or enjoying a game of badminton.
 
