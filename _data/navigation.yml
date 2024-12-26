@@ -9,8 +9,11 @@ main:
 - title: "Education"
     url: /education/    
 
-- title: "Research"
-    url: /research/
+- title: "Research Experience"
+    url: /research_experience/
+
+- title: "Vision for PhD"
+    url: /vision/
     
   #- title: "Teaching"
   #  url: /teaching/    
