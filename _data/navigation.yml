@@ -5,19 +5,17 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Education"
+    url: /education/
 
-- title: "Education"
-    url: /education/    
+  - title: "Research Experience"
+    url: /research_experience/    
 
-- title: "Research Experience"
-    url: /research_experience/
-
-- title: "Vision for PhD"
-    url: /vision/
-        
-- title: "Blog"
+  - title: "Vision for PhD"
+    url: /vision/    
+    
+  - title: "Blog"
     url: /blog/
-    
-- title: "CV"
+
+  - title: "CV"
     url: /cv/
-    
