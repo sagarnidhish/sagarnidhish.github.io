@@ -21,7 +21,7 @@ Previously, my research has spanned diverse topics such as:
 
 With a strong technical foundation, I enjoy working at the intersection of **machine learning** and **scientific domains**, exploring how data and algorithms can transform our understanding of complex systems. My efforts have resulted in peer-reviewed publications and international conference presentations (most recently at NeurIPS 2024).
 
-Beyond academics, I’m deeply passionate about teaching and giving back to the community. Beside research, I am a tutor at [**MIT’s ESOL program**]https://hr.mit.edu/diversity-equity-inclusion/esol, teaching English to non-native staff (includes many janitors) at MIT.
+Beyond academics, I’m deeply passionate about teaching and giving back to the community. Beside research, I am a tutor at [**MIT’s ESOL program**](https://hr.mit.edu/diversity-equity-inclusion/esol), teaching English to non-native staff (includes many janitors) at MIT.
 
 I am into long-distance running, having won medals in my university.
 
