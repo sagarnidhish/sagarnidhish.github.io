@@ -23,9 +23,9 @@ With a strong technical foundation, I enjoy working at the intersection of **mac
 
 Beyond academics, I’m deeply passionate about teaching and giving back to the community. Beside research, I am a tutor at [**MIT’s ESOL program**](https://hr.mit.edu/diversity-equity-inclusion/esol), teaching English to non-native staff (includes many janitors) at MIT.
 
-I am into long-distance running, having won medals in my university.
+I am into long-distance running, having won medals in university athletics.
 
-When I’m not working on my projects, you can find me experimenting with coding challenges, exploring new AI frameworks, or enjoying a game of chess. I aim to create a positive impact wherever I go, and am a big believer in working with people.
+When I’m not working on my projects, you can find me experimenting with coding challenges, exploring new AI frameworks, or enjoying a game of chess. I aim to create a positive impact wherever I go, and am a big believer of working in a team.
 
 Feel free to explore my **research**, and **blog** for more insights into my journey. Please feel free to reach out (links on the left) if you’d like to collaborate and/or discuss shared interests!
 
