@@ -9,10 +9,7 @@ main:
     url: /cv/
     
   - title: "Research Experience"
-    url: /research_experience/    
-
-  - title: "Vision for PhD"
-    url: /vision/    
+    url: /research_experience/      
     
   - title: "Blog"
     url: /blog/
