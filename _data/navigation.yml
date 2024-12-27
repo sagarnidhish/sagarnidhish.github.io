@@ -5,9 +5,9 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Education"
-    url: /education/
-
+  - title: "CV"
+    url: /cv/
+    
   - title: "Research Experience"
     url: /research_experience/    
 
@@ -17,5 +17,3 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "CV"
-    url: /cv/
