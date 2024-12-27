@@ -1,24 +1,50 @@
 ---
 layout: archive
-title: "Posts by Collection"
-permalink: /collection-archive/
+title: "Blog"
+permalink: /blog/
 author_profile: true
 ---
 
 {% include base_path %}
-{% capture written_label %}'None'{% endcapture %}
 
-{% for collection in site.collections %}
-  {% unless collection.output == false or collection.label == "posts" %}
-    {% capture label %}{{ collection.label }}{% endcapture %}
-    {% if label != written_label %}
-      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
-      {% capture written_label %}{{ label }}{% endcapture %}
-    {% endif %}
-  {% endunless %}
-  {% for post in collection.docs %}
-    {% unless collection.output == false or collection.label == "posts" %}
-      {% include archive-single.html %}
-    {% endunless %}
-  {% endfor %}
-{% endfor %}
+<div>
+  <h2>Welcome to My Blog</h2>
+  <p>
+    Here, I share my thoughts, research updates, and insights on topics at the intersection of artificial intelligence, science, and technology. From exploring the frontiers of machine learning to tackling real-world scientific challenges, this blog serves as a platform to document my journey and engage with a wider audience.
+  </p>
+</div>
+
+<div>
+  <h2>Latest Posts</h2>
+  <ul>
+    {% for post in site.categories.blog reversed %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <p>{{ post.excerpt }}</p>
+        <p><small>Posted on {{ post.date | date: "%B %d, %Y" }}</small></p>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div>
+  <h2>Featured Topics</h2>
+  <p>
+    My blog covers a variety of topics, including:
+  </p>
+  <ul>
+    <li><strong>AI for Science:</strong> Insights into how artificial intelligence is revolutionizing scientific discovery.</li>
+    <li><strong>Climate and Environmental Science:</strong> Using AI to model and mitigate climate change impacts.</li>
+    <li><strong>Materials Discovery:</strong> Accelerating innovation in materials science through computational techniques.</li>
+    <li><strong>Semiconductor Research:</strong> Exploring AI-driven solutions for device design and manufacturing.</li>
+    <li><strong>Personal Reflections:</strong> Sharing experiences, challenges, and learnings from my academic and professional journey.</li>
+  </ul>
+</div>
+
+<div>
+  <h2>Get Involved</h2>
+  <p>
+    I welcome your thoughts and ideas! Feel free to connect with me or leave comments on my posts. Let’s spark conversations that inspire innovation and collaboration.
+  </p>
+</div>
+
