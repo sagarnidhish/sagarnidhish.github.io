@@ -19,7 +19,7 @@ Education
 Publications
 ======
 1. Nidhish Sagar, Elia Arnese Feffin, Richard D. Braatz. "Hybrid Modeling by Integrating Algebraic Learning and Mechanistic Information." Manuscript under review with funding agency, 2024
-2. Nidhish Sagar, Eslam G. Al-Sakkari, Ahmed Ragab. "Multimodal AI framework for predicting candidate high temperature superconductors." Proposal and Poster accepted in NeurIPS 2024
+2. Nidhish Sagar, Eslam G. Al-Sakkari, Ahmed Ragab. "Multimodal AI framework for predicting candidate high temperature superconductors." Poster accepted in NeurIPS 2024
 3. Choyal, Vijay, Nidhish Sagar, and Gopalakrishnan Sai Gautam. "Constructing and evaluating machine-learned interatomic potentials for Li-based disordered rocksalts." Journal of Chemical Theory and Computation (2024).
 4. Rao, C. N. R., K. Pramoda, Aditi Saraswat, Reetendra Singh, Pratap Vishnoi, Nidhish Sagar, and Abdo Hezam. "Superlattices of covalently cross-linked 2D materials for the hydrogen evolution reaction." APL Materials 8, no. 2 (2020)
 
