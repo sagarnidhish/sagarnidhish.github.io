@@ -10,15 +10,14 @@ redirect_from:
 
 Education
 ======
-* Dual Masters, MIT, 4.4/5, 2022-Present
+* Dual Masters, MIT, Current GPA: 4.4, 2022-Present
 * Undergraduate, Indian Institute of Science, First Class with Distinction, 2017-2022
 * Senior Secondary (12th grade), Central Board of Secondary Education, 97%, 2015-2017
 * Secondary (10th grade), Central Board of Secondary Education, 10/10, 2015
 
 Research Experience
 ======
-* Hybrid Modeling: Mechanistic Algebraic Learning via Elastic Net (Jan 2023 - Present)
-  * MIT
+* Hybrid Modeling: Mechanistic Algebraic Learning via Elastic Net (Jan 2023 - Present), MIT
   * Advisors: Prof. Richard Braatz and Prof. Ericmoore Jossou
   * Collaborating with Dow Inc. (for industry data) to build hybrid models for industrial chemical processes
   * Working on nonlinear processes like pH control, catalyst deactivation and convective mass transfer
