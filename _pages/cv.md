@@ -10,10 +10,10 @@ redirect_from:
 
 Education
 ======
-* Dual Masters, MIT, Current GPA: 4.4, 2022-Present
-* Undergraduate, Indian Institute of Science, First Class with Distinction, 2017-2022
-* Senior Secondary (12th grade), Central Board of Secondary Education, 97%, 2015-2017
-* Secondary (10th grade), Central Board of Secondary Education, 10/10, 2015
+* Dual Masters at MIT, Current GPA: 4.4/5, 2022-Present
+* Undergraduate at Indian Institute of Science, First Class with Distinction, 2017-2022
+* Senior Secondary School (12th grade), Central Board of Secondary Education, 97%, 2015-2017
+* Secondary School (10th grade), Central Board of Secondary Education, 10/10, 2015
 
 
 Publications
@@ -56,7 +56,7 @@ Key Courses Taken
 
 Select Awards & Scholarships
 ======
-* Winner of MIT AI Hackathon, Generative AI solutions for day-to-day use cases 2024
+* Winner of MIT AI Hackathon, Generative AI for Industry 2024
 * Manson Benedict Fellowship, MIT 2022-23
 * Microscopy Society of America (MSA), Undergraduate Scholarship Award 2020
 * Summer Fellowship, JNCASR Bangalore (Prof. CNR Rao's Lab) 2019
