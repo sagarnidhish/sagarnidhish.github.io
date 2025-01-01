@@ -10,7 +10,7 @@ author_profile: true
 <div>
   <h2>Welcome to My Blog</h2>
   <p>
-    Here, I share my thoughts and insights on topics related to research and my life. From exploring the frontiers of machine learning to living life at MIT, I plan to use this blog to document my journey and let people know more about me.
+    Here, I share my thoughts and insights on topics in research and my life. From exploring the frontiers of machine learning to living life at MIT, I plan to use this blog to document my journey and let people know more about me and my interests.
   </p>
 </div>
 
@@ -30,6 +30,23 @@ author_profile: true
       <p>My experiments with the architecture of Liquid Neural Networks</p>
     </li>
   </ul>
+
+
+  <ul>
+    {% for post in site.categories.blog reversed %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <p>{{ post.excerpt }}</p>
+        <p><small>Posted on {{ post.date | date: "%B %d, %Y" }}</small></p>
+      </li>
+    {% endfor %}
+    <li>
+      <!-- <a href="lnn.pdf" target="_blank">Deep Dive into Liquid Neural Networks</a>   -->
+      <a href="/assets/pdf/lnn.pdf" target="_blank">Deep Dive into Liquid Neural Networks</a>
+      <p>My experiments with the architecture of Liquid Neural Networks</p>
+    </li>
+  </ul>
+  
 </div>
 
 
