@@ -27,6 +27,8 @@ Key Courses Taken
 ======
 * Computer Science & Mathematics
   * Deep Learning
+  * Advances in Computer Vision
+  * Symmetry and its Application to Machine Learning 
   * Engineering Computation and Data Science
   * Algorithms & Programming
   * Analysis and Linear Algebra (I,II)
