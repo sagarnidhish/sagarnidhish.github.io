@@ -18,10 +18,13 @@ Education
 
 Publications
 ======
-1. Nidhish Sagar, Elia Arnese Feffin, Richard D. Braatz. "Hybrid Modeling by Integrating Algebraic Learning and Mechanistic Information." Manuscript under review with funding agency, 2024
-2. Nidhish Sagar, Eslam G. Al-Sakkari, Ahmed Ragab. "Multimodal AI framework for predicting candidate high temperature superconductors." Poster accepted in NeurIPS 2024
-3. Choyal, Vijay, Nidhish Sagar, and Gopalakrishnan Sai Gautam. "Constructing and evaluating machine-learned interatomic potentials for Li-based disordered rocksalts." Journal of Chemical Theory and Computation (2024).
-4. Rao, C. N. R., K. Pramoda, Aditi Saraswat, Reetendra Singh, Pratap Vishnoi, Nidhish Sagar, and Abdo Hezam. "Superlattices of covalently cross-linked 2D materials for the hydrogen evolution reaction." APL Materials 8, no. 2 (2020)
+
+1. Nidhish Sagar, Richard D. Braatz. "Algebraic Learning of Convective Heat and Mass Transfer Relations" Manuscript under preparation, 2025
+2. Elia Arnese Feffin, Nidhish Sagar, Richard D. Braatz. "Hybrid Modeling by Integrating Algebraic Learning and Mechanistic Information." Submitted to Chemical Engineering Journal, 2024
+3. Nidhish Sagar, Eslam G. Al-Sakkari, Ahmed Ragab. "Multimodal AI framework for predicting candidate high temperature superconductors." Poster, NeurIPS, 2024
+4. Liam G. McCoy, Rajiv Swamy, Nidhish Sagar, Minjia Wang, James Cao, Stephen Bacchi, Aloysius Humbert, Nigel Fong, Nigel Tan, Kevin Tan, Adam Rodman. "Script Concordance Testing: A Novel Framework for Evaluating Clinical Reasoning in Medical AI Systems" Submitted to NEJM AI, 2024.
+5. Choyal, Vijay, Nidhish Sagar, and Gopalakrishnan Sai Gautam. "Constructing and evaluating machine-learned interatomic potentials for Li-based disordered rocksalts." Journal of Chemical Theory and Computation (2024).
+6. Rao, C. N. R., K. Pramoda, Aditi Saraswat, Reetendra Singh, Pratap Vishnoi, Nidhish Sagar, and Abdo Hezam. "Superlattices of covalently cross-linked 2D materials for the hydrogen evolution reaction." APL Materials 8, no. 2 (2020)
 
 Key Courses Taken
 ======
