@@ -19,8 +19,8 @@ Education
 Publications
 ======
 
-1. Nidhish Sagar, Richard D. Braatz. "Algebraic Learning of Convective Heat and Mass Transfer Relations" Manuscript under preparation, 2025
-2. Elia Arnese Feffin, Nidhish Sagar, Richard D. Braatz. "Hybrid Modeling by Integrating Algebraic Learning and Mechanistic Information." Submitted to Chemical Engineering Journal, 2024
+1. Nidhish Sagar, Richard D. Braatz. "Machine Learning for Modeling Convective Flows" Manuscript under preparation, 2025
+2. Elia Arnese Feffin, Nidhish Sagar, Richard D. Braatz. "Hybrid Modeling by Integrating Algebraic Learning and Mechanistic Information." Submitted to Computers & Chemical Engineering Journal, 2024
 3. Nidhish Sagar, Eslam G. Al-Sakkari, Ahmed Ragab. "Multimodal AI framework for predicting candidate high temperature superconductors." Poster, NeurIPS, 2024
 4. Liam G. McCoy, Rajiv Swamy, Nidhish Sagar, Minjia Wang, James Cao, Stephen Bacchi, Aloysius Humbert, Nigel Fong, Nigel Tan, Kevin Tan, Adam Rodman. "Script Concordance Testing: A Novel Framework for Evaluating Clinical Reasoning in Medical AI Systems" Submitted to NEJM AI, 2024.
 5. Choyal, Vijay, Nidhish Sagar, and Gopalakrishnan Sai Gautam. "Constructing and evaluating machine-learned interatomic potentials for Li-based disordered rocksalts." Journal of Chemical Theory and Computation (2024).
