@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * PhD at the University of Cambridge, Jan 2026-Present
-* Dual Masters at MIT, Current GPA: 4.4/5, 2022-2025
+* Dual Masters at MIT, GPA: 4.5/5, 2022-2025
 * Undergraduate at Indian Institute of Science, First Class with Distinction, 2017-2022
 * Senior Secondary School (12th grade), Central Board of Secondary Education, 97%, 2015-2017
 * Secondary School (10th grade), Central Board of Secondary Education, 10/10, 2015
