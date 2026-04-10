@@ -10,7 +10,8 @@ redirect_from:
 
 Education
 ======
-* Dual Masters at MIT, Current GPA: 4.4/5, 2022-Present
+* PhD at the University of Cambridge, Jan 2026-Present
+* Dual Masters at MIT, Current GPA: 4.4/5, 2022-2025
 * Undergraduate at Indian Institute of Science, First Class with Distinction, 2017-2022
 * Senior Secondary School (12th grade), Central Board of Secondary Education, 97%, 2015-2017
 * Secondary School (10th grade), Central Board of Secondary Education, 10/10, 2015
@@ -19,7 +20,7 @@ Education
 Publications
 ======
 
-1. Nidhish Sagar, Richard D. Braatz. "Machine Learning for Modeling Convective Flows" Manuscript under preparation, 2025
+1. Nidhish Sagar, Richard D. Braatz. "Machine Learning for Modeling Convective Flows" Manuscript under preparation, 2026
 2. Elia Arnese Feffin, Nidhish Sagar, Richard D. Braatz. "Hybrid Modeling by Integrating Algebraic Learning and Mechanistic Information." Submitted to Computers & Chemical Engineering Journal, 2024
 3. Nidhish Sagar, Eslam G. Al-Sakkari, Ahmed Ragab. "Multimodal AI framework for predicting candidate high temperature superconductors." Poster, NeurIPS, 2024
 4. Liam G. McCoy, Rajiv Swamy, Nidhish Sagar, Minjia Wang, James Cao, Stephen Bacchi, Aloysius Humbert, Nigel Fong, Nigel Tan, Kevin Tan, Adam Rodman. "Script Concordance Testing: A Novel Framework for Evaluating Clinical Reasoning in Medical AI Systems" Submitted to NEJM AI, 2024.
